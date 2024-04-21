@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Let's share some night thoughts
 ---
 
